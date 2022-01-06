@@ -1,6 +1,6 @@
 # Dynamic_JSCC
 
-This is the code for paper [Deep Joint Source-Channel Coding for Wireless Image Transmission with Adaptive Rate Control](https://arxiv.org/abs/2110.04456). The model is implemented with PyTorch. 
+论文复现 [Deep Joint Source-Channel Coding for Wireless Image Transmission with Adaptive Rate Control](https://arxiv.org/abs/2110.04456).这个模型使用了pytorch 
 
 <img src="dyna_structure.png" alt="structure" width="700"/>
 
